@@ -3,7 +3,7 @@ title: "JavaScript variables 101"
 datePublished: Wed May 10 2023 06:59:06 GMT+0000 (Coordinated Universal Time)
 cuid: clhhco0bq000m09ma05t8cta7
 slug: javascript-variables-101
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683701792199/93e2e928-7647-4095-bb5b-9e5059a9078e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683771362717/130eb944-ef8a-4bde-9efa-8555b69d52b9.png
 tags: blogging, javascript, wemakedevs, devsintechblogs
 
 ---
