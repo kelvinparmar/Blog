@@ -71,49 +71,49 @@ As you probably know at this point, it's not recommended to work with the root a
 
 ### Solution :
 
-1. Go to the AWS IAM service
+4. Go to the AWS IAM service
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916595975/844fc50e-7997-46f3-a10f-8c4c1afc3d10.png?auto=compress,format&format=webp align="left")
     
-2. Click on "Users" in the right side menu (right under "Access Management")
+5. Click on "Users" in the right side menu (right under "Access Management")
     
-3. Click on the button "Add users"
+6. Click on the button "Add users"
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916619250/ce073607-63e6-42ae-a843-03b5f88b458e.png?auto=compress,format&format=webp align="left")
 
-1. Insert the user name (e.g. Kelvin)
+7. Insert the user name (e.g. Kelvin)
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916669632/92704dac-9fd7-4d54-9b89-fa92e8fb3036.png?auto=compress,format&format=webp align="left")
 
-1. Select the credential type: "Password"
+8. Select the credential type: "Password"
     
-2. Set the console password to custom and click on "Next"
+9. Set the console password to custom and click on "Next"
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916682800/63586b40-f25f-464f-b3fb-7e8d70e275e8.png?auto=compress,format&format=webp align="left")
 
-1. Click on "Add user to group"
+10. Click on "Add user to group"
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916702510/d4e65cde-47c8-4507-8b1e-bb67b7a2af72.png?auto=compress,format&format=webp align="left")
 
-1. Insert "admin" as the group name
+11. Insert "admin" as the group name
     
-2. Check the "Administrator Access" policy and click on "Create group"
+12. Check the "Administrator Access" policy and click on "Create group"
     
-3. Click on "Next: Tags"
+13. Click on "Next: Tags"
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916717290/0413ba6b-3c1d-4e34-bcd7-8455193a3d9a.png?auto=compress,format&format=webp align="left")
 
-1. Add a tag with the key `Role` and the value `DevOps`
+14. Add a tag with the key `Role` and the value `DevOps`
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916785126/fcce85e2-47d2-4586-902d-b160cd3280ee.png?auto=compress,format&format=webp align="left")
 
-1. then create on "Create user"
+15. then create on "Create user"
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691916792639/f94108c8-756f-4cfb-aca2-7a2ee740cbc8.png?auto=compress,format&format=webp align="left")
